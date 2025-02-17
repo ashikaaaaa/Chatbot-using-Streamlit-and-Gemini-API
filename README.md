@@ -8,9 +8,9 @@ This is a simple chatbot application built with Streamlit and Google Gemini API.
 •	Simple and interactive UI using Streamlit
 •	Custom styling for a better user experience
 
-2. Installation
+3. Installation
 •	Clone the repository
-git clone https://github.com/ashikaaaaa/Chatbot-using-Streamlit-and-Gemini-API 
+git clone https://github.com/ashikaaaaa/Chatbot-using-Streamlit-and-Gemini-API
 •	Install Dependencies
 pip install -r requirements.txt
 •	Run the Chatbot
