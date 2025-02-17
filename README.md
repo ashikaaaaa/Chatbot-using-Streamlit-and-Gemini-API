@@ -16,5 +16,4 @@ pip install -r requirements.txt
 •	Run the Chatbot
 streamlit run app.py
 
-3. Author
 Developed by Ashika 
